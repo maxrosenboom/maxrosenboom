@@ -6,7 +6,7 @@ You can reach me at:
 - Discord: Waftly#0001
 - Email: maxrosenboom@gmail.com
 - LinkedIn: https://www.linkedin.com/in/max-rosenboom/
-- My Website: TBD
+- My Website: wip
 
 ### Repo Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrosenboom)](https://github.com/anuraghazra/github-readme-stats)
