@@ -8,5 +8,8 @@ You can reach me at:
 - LinkedIn: https://www.linkedin.com/in/max-rosenboom/
 - My Website: wip
 
+Feel free to take a look around! This is the main area I put new explorations and creations.
+<!--
 ### Repo Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrosenboom)](https://github.com/anuraghazra/github-readme-stats)
+-->
