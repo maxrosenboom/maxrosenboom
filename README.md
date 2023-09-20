@@ -1,5 +1,5 @@
 ### Hi! I'm Max 👋
-I'm just a computer science student who enjoys building things and learning about backend and network stuff.
+I'm a computer science graduate who enjoys building things and learning about backend and network stuff.
 
 ### Contact 
 You can reach me at:
