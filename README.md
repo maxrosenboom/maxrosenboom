@@ -10,5 +10,7 @@ You can reach me at:
 
 Feel free to take a look around! As I explore new technologies and learn new things more projects will show up.
 
+<!--
 ### Repo Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrosenboom)](https://github.com/anuraghazra/github-readme-stats)
+-->
