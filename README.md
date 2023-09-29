@@ -6,7 +6,7 @@ You can reach me at:
 - Discord: Waftly#0001
 - Email: maxrosenboom@gmail.com
 - LinkedIn: https://www.linkedin.com/in/max-rosenboom/
-- My Website: wip
+- My Website: https://www.maxrosenboom.com/
 
 Feel free to take a look around! As I explore new technologies and learn new things more projects will show up.
 
