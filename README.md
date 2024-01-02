@@ -3,7 +3,6 @@ I'm a computer science graduate who enjoys building things and learning about ba
 
 ### Contact 
 You can reach me at:
-- Discord: Waftly#0001
 - Email: maxrosenboom@gmail.com
 - LinkedIn: https://www.linkedin.com/in/max-rosenboom/
 - My Website: https://www.maxrosenboom.com/
