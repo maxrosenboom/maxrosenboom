@@ -1,5 +1,5 @@
 ### Hi! I'm Max 👋
-I'm a computer science graduate who enjoys building things and learning about backend and network stuff.
+I'm a computer science graduate who enjoys building things with a passion for backend and network programming. My overall career mission is to contribute to the design and implementation of large-scale datacenter and cloud infrastructure, focusing on building automation and scalable applications.
 
 ### Contact 
 You can reach me at:
