@@ -1,11 +1,10 @@
 ### Hi! I'm Max 👋
-I'm a computer science graduate who enjoys building things with a passion for backend and network programming. My overall career mission is to contribute to the design and implementation of large-scale datacenter and cloud infrastructure, focusing on automation and building scalable applications.
+I'm a computer science graduate and systems engineer who enjoys building things and learning about new technologies.
 
 ### Contact 
 You can reach me at:
 - Email: maxrosenboom@gmail.com
 - LinkedIn: https://www.linkedin.com/in/max-rosenboom/
-- My Website: https://www.maxrosenboom.com/
 
 Feel free to take a look around! As I explore new technologies and learn new things more projects will show up.
 
